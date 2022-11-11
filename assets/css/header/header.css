@@ -1,0 +1,20 @@
+/* header */
+.header {background-color: var(--background-header);}
+
+/* header background */
+.header__back {}
+/* header main */
+.header__main {
+    align-items: center;
+    display: flex;
+    padding: 2rem 0;
+    justify-content: space-between;
+}
+
+/* header logo txt */
+
+.header__logo__txt {
+    color: var(--first-color);
+    font-size: 3rem;
+    font-weight: 600;
+}
