@@ -13,7 +13,8 @@
 
 /* header logo txt */
 
-.header__logo__txt {
+.header__logo__txt,
+.logo {
     color: var(--first-color);
     font-size: 3rem;
     font-weight: 600;

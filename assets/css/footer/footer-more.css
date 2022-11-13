@@ -1,0 +1,22 @@
+/* footer more */
+.footer__more {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+    border-top: 1px solid var(--shadow);
+}
+
+/* footer more policy */
+.footer__more__policy {
+    display: flex;
+    gap: 4rem;
+}
+
+/* footer more link */
+.footer__more__link {
+    color: var(--third-color);
+}
+.footer__more__link:hover {
+    color: var(--second-color);
+}

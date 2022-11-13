@@ -1,0 +1,38 @@
+/* footer info */
+.footer__info {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+}
+
+/* footer info vaccination description */
+.footer__info__vaccination__description {
+    margin-right: 55%;
+}
+
+/* footer info menus */
+.footer__info__menus {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    gap: 5rem;
+}
+
+/* footer info menu */
+.footer__info__menu {
+    display: grid;
+}
+
+/* footer info menu title */
+.footer__info__menu__title {
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+/* footer info menu link */
+.footer__info__menu__link {
+    color: var(--third-color);
+}
+.footer__info__menu__link:hover {
+    color: var(--second-color   );
+}
