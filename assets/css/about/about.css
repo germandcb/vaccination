@@ -1,0 +1,6 @@
+/* about main */
+.about__main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2rem 0;
+}

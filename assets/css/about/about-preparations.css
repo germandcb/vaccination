@@ -1,0 +1,29 @@
+/* about preparations */
+.about__preparations {
+    padding: 0 4rem;
+}
+
+/* about preparations title */
+.about__preparations__title {
+    font-size: 3.5rem;
+}
+
+/* about preparations description */
+.about__preparations__description {
+    padding-bottom: 3rem;
+}
+
+/*---------------- about preparation --------------------*/
+.about__preparation{
+    padding: 0 5rem;
+    border: 1px solid var(--background-item);
+    margin: 2rem 0;
+    border-radius: 0.5rem;
+}
+
+/* about preparation */
+.about__preparation__title {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
