@@ -1,0 +1,48 @@
+/* contact box*/
+.contact__box {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem;
+    gap: 4rem;
+}
+
+/* contact */
+.contact {
+    align-items: center;
+    border-radius: 1rem;
+    display: grid;
+    padding: 2rem;
+    width: 25rem;
+    height: 22rem;
+}
+
+.contact:hover {
+    box-shadow: 0px 40px 66px -40px var(--shadow);
+}
+
+/* contact info */
+.contact__info {}
+
+/* contact info icon */
+.contact__info__icon{
+    display: flex;
+}
+
+/* contact info box */
+.contact__info__box{
+    margin-bottom: 2rem;
+}
+
+/* contact info box title */
+.contact__info__box__title{
+    margin: unset;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+/* contact info box description */
+.contact__info__box__description {
+    margin: unset;
+}

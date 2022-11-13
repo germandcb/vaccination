@@ -1,0 +1,10 @@
+/* contscts */
+.contacts {
+    padding: 10rem 0;
+}
+/* contacts main */
+.contacts__main {
+    display: grid;
+    grid-template-columns: 50% 60%;
+    gap: 4rem;
+}
