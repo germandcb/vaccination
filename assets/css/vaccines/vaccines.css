@@ -1,0 +1,17 @@
+/* vaccines */
+
+/* vaccines main */
+.vaccines__main {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 50% 60%;
+    margin-bottom: 10rem;
+}
+
+/* vaccines img*/
+.vaccines__img {
+    z-index: -1;
+    width: 100%;
+    margin: -10rem -10rem 10rem -5rem;
+    height: 100%;
+}

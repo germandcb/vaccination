@@ -69,9 +69,16 @@ img {
     text-align: center;
 }
 .btn {
-    color: white;
-    padding: 1rem 2rem;
     border-radius: 0.5rem;
     background: linear-gradient(120deg, var(--btn-2-color) 0%, var(--btn-1-color) 100%);
     box-shadow: 0px 9px 15px 0px var(--shadow);
+    border: none;
+    color: white;
+    padding: 1rem 2rem;
+}
+.title {
+    color: var(--second-color);
+}
+.description {
+    color: var(--third-color);
 }

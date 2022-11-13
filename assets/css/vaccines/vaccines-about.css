@@ -1,0 +1,77 @@
+/*------------  vaccines about --------------*/
+.vaccines__about {}
+
+/* vaccine fiigth */
+.vaccine__fight {
+    padding-bottom: 12rem;
+    padding-right: 22rem;
+}
+
+/* vaccine fiigth title */
+.vaccine__fight__title {
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+/* vaccine fiigth description */
+/* .vaccine__fight__title,
+.vaccine__fight__description {
+    padding-right: 15rem;
+} */
+
+/* vaccine fiigth icons */
+.vaccine__fight__icons {
+    display: flex;
+    color: var(--second-color);
+    font-weight: 400;
+    justify-content: space-around;
+}
+
+/*------------  vaccines schedule --------------*/
+.vaccine__schedule{
+}
+
+/* vaccine schedule about */
+.vaccine__schedule__about {
+    color: var(--second-color);
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+/* vaccine schedule infromations */
+.vaccine__schedule__informations {
+    align-items: center;
+    display: flex;
+    background-color: var(--background-header);
+    border-radius: 0.5rem;
+    padding: 0 4rem;
+    justify-content: space-around;
+    gap: 2rem;
+    margin-left: 4rem;
+    width: 140%;
+}
+/* vaccine schedule infromation */
+.vaccine__schedule__information {}
+
+/* vaccine schedule infromation title */
+.vaccine__schedule__information__title {
+    margin-bottom: unset;
+    font-size: 2rem;
+    font-weight: 400;
+    color: var(--third-color);
+}
+
+/* vaccine schedule infromation location */
+.vaccine__schedule__information__location {
+    margin-top: unset;
+    color: var(--second-color);
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+/* vaccine schedule btn*/
+.vaccine__schedule__btn{
+    display: inline-block;
+    padding: 1.6rem 4rem;
+}
+
